@@ -1,0 +1,21 @@
+{
+  "name": "project-practice",
+  "version": "1.0.0",
+  "description": "Backend in chai aur code",
+  "type": "module",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "Abhishek",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodeman src/index.js"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  },
+  "dependencies": {
+    "prettier": "^3.4.2"
+  }
+}
